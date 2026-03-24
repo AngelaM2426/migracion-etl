@@ -449,4 +449,4 @@ Se ha implementado **un proyecto ETL profesional y completo** que demuestra:
 
 **Próximo paso**: Ejecutar `python benchmark_carga.py` y escribir conclusión final. 🚀
 
-*Proyecto ETL v1.0 Finalizado - 24 Marzo 2024*
+*Proyecto ETL v1.0 Finalizado - 24 Marzo 2025*
