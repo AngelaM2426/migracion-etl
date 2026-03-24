@@ -2,7 +2,7 @@
 
 **Proyecto**: Migración Masiva CSV → PostgreSQL (Ejercicio 1)  
 **Estudiante**: Angela  
-**Fecha de Finalización**: 24 Marzo 2024  
+**Fecha de Finalización**: 24 Marzo 2025  
 **Estado**: ✅ 88% COMPLETADO / 100% FUNCIONAL  
 
 ---
