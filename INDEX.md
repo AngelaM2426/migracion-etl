@@ -1,7 +1,7 @@
 # 📚 ÍNDICE MAESTRO - ETL PROYECTO COMPLETO
 
 **Status**: ✅ 88% COMPLETADO  
-**Última actualización**: 24 Marzo 2024  
+**Última actualización**: 24 Marzo 2025  
 **Estudiante**: Angela  
 
 ---
