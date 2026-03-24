@@ -92,3 +92,28 @@ __pycache__/
 
 # Ignorar configuraciones locales
 .env
+
+
+
+
+# Ignorar datasets y archivos grandes
+*.csv
+*.parquet
+*.zip
+*.tar
+*.log
+
+# Ignorar cachés y compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar configuraciones locales
+.env
+
+
+
+
+
+
+
