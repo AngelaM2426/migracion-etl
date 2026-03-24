@@ -1,0 +1,26 @@
+version: "3.9"
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: migracion_etl_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB:       ruv_victimas
+      POSTGRES_USER:     angela
+      POSTGRES_PASSWORD: angela123
+      PGDATA:            /var/lib/postgresql/data/pgdata
+    ports:
+      - "5433:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init:/docker-entrypoint-initdb.d
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U etl -d ruv_victimas"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  postgres_data:
+    driver: local
