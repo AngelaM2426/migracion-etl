@@ -130,6 +130,13 @@ __pycache__/
 
 
 
+git add src/ config/ init/
+git commit -m "agrega estructura de carpetas con código"
+
+
+
+
+
 
 
 
