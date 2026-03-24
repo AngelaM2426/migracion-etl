@@ -67,3 +67,28 @@ Thumbs.db
 # =========================
 *.tmp
 *.bak
+
+
+
+
+*.csv
+*.log
+__pycache__/
+
+
+
+
+# Ignorar datasets y archivos grandes
+*.csv
+*.parquet
+*.zip
+*.tar
+*.log
+
+# Ignorar compilados y cachés
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar configuraciones locales
+.env
