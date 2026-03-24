@@ -1,7 +1,7 @@
 # 📊 ANÁLISIS COMPARATIVO - BENCHMARK DE LOTES
 
 **Proyecto**: Carga Masiva ETL  
-**Fecha**: 24 Marzo 2024  
+**Fecha**: 24 Marzo 2025  
 **Dataset**: 13,178,321 registros × 53 columnas (4.6 GB)  
 
 ---
