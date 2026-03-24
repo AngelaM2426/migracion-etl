@@ -135,6 +135,9 @@ git commit -m "agrega estructura de carpetas con código"
 
 
 
+config/0002_UNIVERSO_VICTIMAS_LB.txt
+config/*.txt
+config/0002_UNIVERSO_VICTIMAS_LB.txt
 
 
 
